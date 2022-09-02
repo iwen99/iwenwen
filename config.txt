@@ -41,6 +41,5 @@
 "API_TGRJ":"cdf420088475bb215ac4b4b9e15ae647",
 # 土味情话
 "API_TWQH":"cdf420088475bb215ac4b4b9e15ae647"
-# 朋友圈文案
-"API_PYQWA":"cdf420088475bb215ac4b4b9e15ae647"
+
 }
