@@ -10,7 +10,7 @@
 "app_id": "wxa8269e21cc02396e",
 "app_secret": "18f489c2ab15e72128e89f570fad8920",
 
-"template_id": "hP_ic7PmHKfIwo1HtMA5Z4dIFASg5Gf3HdFoBbKYIWQ",
+"template_id": "PUvvW3vhA6DC72KMud3cjdIaeNjHpZmasaj0pbosncw",
 
 "user_id": ["oJEkj56u2JURhUmYL-nBhLRFqyWo" , "oJEkj5xeQfoToEbQ3P333pWIKypY"],
 
